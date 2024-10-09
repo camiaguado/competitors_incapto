@@ -1,0 +1,101 @@
+[
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Brasil",
+        "product_origin": "Brasil",
+        "price_250": null,
+        "price_500": "18.95",
+        "price_1_kilo": "29.95",
+        "product_url": "https://incapto.com/product/cafe-en-grano-brasil/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Etiop\u00eda",
+        "product_origin": "Etiop\u00eda",
+        "price_250": null,
+        "price_500": "24.95",
+        "price_1_kilo": "42.96",
+        "product_url": "https://incapto.com/product/cafe-etiopia/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de M\u00e9xico",
+        "product_origin": "M\u00e9xico",
+        "price_250": null,
+        "price_500": "21.95",
+        "price_1_kilo": "37.95",
+        "product_url": "https://incapto.com/product/cafe-de-mexico/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 Light Roast de Etiop\u00eda",
+        "product_origin": "Etiop\u00eda",
+        "price_250": null,
+        "price_500": "22.95",
+        "price_1_kilo": null,
+        "product_url": "https://incapto.com/product/cafe-light-roast-etiopia/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Burundi",
+        "product_origin": "Burundi",
+        "price_250": null,
+        "price_500": "22.95",
+        "price_1_kilo": "39.95",
+        "product_url": "https://incapto.com/product/cafe-burundi/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 Dark Roast de Brasil",
+        "product_origin": "Brasil",
+        "price_250": null,
+        "price_500": "17.95",
+        "price_1_kilo": "29.95",
+        "product_url": "https://incapto.com/product/cafe-dark-roast-brasil/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Guatemala",
+        "product_origin": "Guatemala",
+        "price_250": null,
+        "price_500": "21.95",
+        "price_1_kilo": "39.95",
+        "product_url": "https://incapto.com/product/cafe-guatemala/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Sumatra",
+        "product_origin": "Sumatra",
+        "price_250": null,
+        "price_500": "26.95",
+        "price_1_kilo": "49.95",
+        "product_url": "https://incapto.com/product/cafe-sumatra/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Per\u00fa",
+        "product_origin": "Per\u00fa",
+        "price_250": null,
+        "price_500": "18.95",
+        "price_1_kilo": "34.95",
+        "product_url": "https://incapto.com/product/cafe-peru-jaen-cajamarca/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 de Colombia",
+        "product_origin": "Colombia",
+        "price_250": null,
+        "price_500": "19.95",
+        "price_1_kilo": "33.95",
+        "product_url": "https://incapto.com/product/cafe-en-grano-colombia/"
+    },
+    {
+        "competitor": "Incapto",
+        "product_name": "Caf\u00e9 Dark Roast de Uganda",
+        "product_origin": "Uganda",
+        "price_250": null,
+        "price_500": "17.95",
+        "price_1_kilo": "29.95",
+        "product_url": "https://incapto.com/product/cafe-dark-roast-uganda/"
+    }
+]

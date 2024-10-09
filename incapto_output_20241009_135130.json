@@ -1,0 +1,12 @@
+[
+{"competitor": "Incapto", "product_name": "Café de Brasil", "product_origin": "Brasil", "price_250": null, "price_500": "18.95", "price_1_kilo": "29.95", "product_url": "https://incapto.com/product/cafe-en-grano-brasil/"},
+{"competitor": "Incapto", "product_name": "Café de Burundi", "product_origin": "Burundi", "price_250": null, "price_500": "22.95", "price_1_kilo": "39.95", "product_url": "https://incapto.com/product/cafe-burundi/"},
+{"competitor": "Incapto", "product_name": "Café Light Roast de Etiopía", "product_origin": "Etiopía", "price_250": null, "price_500": "22.95", "price_1_kilo": null, "product_url": "https://incapto.com/product/cafe-light-roast-etiopia/"},
+{"competitor": "Incapto", "product_name": "Café de Etiopía", "product_origin": "Etiopía", "price_250": null, "price_500": "24.95", "price_1_kilo": "42.96", "product_url": "https://incapto.com/product/cafe-etiopia/"},
+{"competitor": "Incapto", "product_name": "Café de México", "product_origin": "México", "price_250": null, "price_500": "21.95", "price_1_kilo": "37.95", "product_url": "https://incapto.com/product/cafe-de-mexico/"},
+{"competitor": "Incapto", "product_name": "Café Dark Roast de Brasil", "product_origin": "Brasil", "price_250": null, "price_500": "17.95", "price_1_kilo": "29.95", "product_url": "https://incapto.com/product/cafe-dark-roast-brasil/"},
+{"competitor": "Incapto", "product_name": "Café de Colombia", "product_origin": "Colombia", "price_250": null, "price_500": "19.95", "price_1_kilo": "33.95", "product_url": "https://incapto.com/product/cafe-en-grano-colombia/"},
+{"competitor": "Incapto", "product_name": "Café de Perú", "product_origin": "Perú", "price_250": null, "price_500": "18.95", "price_1_kilo": "34.95", "product_url": "https://incapto.com/product/cafe-peru-jaen-cajamarca/"},
+{"competitor": "Incapto", "product_name": "Café de Sumatra", "product_origin": "Sumatra", "price_250": null, "price_500": "26.95", "price_1_kilo": "49.95", "product_url": "https://incapto.com/product/cafe-sumatra/"},
+{"competitor": "Incapto", "product_name": "Café de Guatemala", "product_origin": "Guatemala", "price_250": null, "price_500": "21.95", "price_1_kilo": "39.95", "product_url": "https://incapto.com/product/cafe-guatemala/"}
+]

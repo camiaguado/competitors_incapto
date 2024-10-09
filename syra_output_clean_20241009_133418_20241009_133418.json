@@ -1,0 +1,83 @@
+[
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Valle de Oro",
+        "product_origin": "El Salvador",
+        "price_250": "14,50\u20ac",
+        "price_500": null,
+        "price_1_kilo": "48,00\u20ac",
+        "product_url": "https://syra.coffee/products/valle-de-oro-n"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Platanillo",
+        "product_origin": "Guatemala",
+        "price_250": "14,00\u20ac",
+        "price_500": null,
+        "price_1_kilo": "46,70\u20ac",
+        "product_url": "https://syra.coffee/products/platanillo"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Klem",
+        "product_origin": "Brasil",
+        "price_250": "13,50\u20ac",
+        "price_500": null,
+        "price_1_kilo": "46,00\u20ac",
+        "product_url": "https://syra.coffee/products/klem"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Popayan Decaf",
+        "product_origin": "Colombia",
+        "price_250": "13,00\u20ac",
+        "price_500": null,
+        "price_1_kilo": "45,00\u20ac",
+        "product_url": "https://syra.coffee/products/popayan-decaf"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Las Brisas",
+        "product_origin": "El Salvador",
+        "price_250": "14,00\u20ac",
+        "price_500": null,
+        "price_1_kilo": "46,50\u20ac",
+        "product_url": "https://syra.coffee/products/las-brisas"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Secundino",
+        "product_origin": "Per\u00fa",
+        "price_250": "14,00\u20ac",
+        "price_500": null,
+        "price_1_kilo": "46,00\u20ac",
+        "product_url": "https://syra.coffee/products/secundino"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Migoti",
+        "product_origin": "Burundi",
+        "price_250": "15,00\u20ac",
+        "price_500": null,
+        "price_1_kilo": "48,00\u20ac",
+        "product_url": "https://syra.coffee/products/migoti"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Primrose",
+        "product_origin": "Etiop\u00eda",
+        "price_250": "13,50\u20ac",
+        "price_500": null,
+        "price_1_kilo": "45,00\u20ac",
+        "product_url": "https://syra.coffee/products/primrose"
+    },
+    {
+        "competitor": "Syra Coffee",
+        "product_name": "Aponte",
+        "product_origin": "Colombia",
+        "price_250": "13,00\u20ac",
+        "price_500": null,
+        "price_1_kilo": "43,30\u20ac",
+        "product_url": "https://syra.coffee/products/aponte"
+    }
+]

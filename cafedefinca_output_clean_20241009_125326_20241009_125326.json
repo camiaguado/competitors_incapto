@@ -1,0 +1,182 @@
+[
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SIDAMO",
+        "product_origin": "Etiop\u00eda",
+        "price_250": "11",
+        "price_500": null,
+        "price_1_kilo": "40.007",
+        "product_url": "https://cafedefinca.eu/producto/sidamo-2/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SANTA CECILIA",
+        "product_origin": "Brasil",
+        "price_250": "10.4",
+        "price_500": null,
+        "price_1_kilo": "37.004",
+        "product_url": "https://cafedefinca.eu/producto/santa-cecilia-2/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SANTA CECILIA",
+        "product_origin": "Brasil",
+        "price_250": "10.4",
+        "price_500": null,
+        "price_1_kilo": "36.99999999",
+        "product_url": "https://cafedefinca.eu/producto/santa-cecilia-espresso/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "PICO DE ORIZABA",
+        "product_origin": "M\u00e9xico",
+        "price_250": "10.395",
+        "price_500": null,
+        "price_1_kilo": "37.004",
+        "product_url": "https://cafedefinca.eu/producto/pico-de-orizaba/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "PICO DE ORIZABA",
+        "product_origin": "M\u00e9xico",
+        "price_250": "10.4",
+        "price_500": null,
+        "price_1_kilo": "36.99999999",
+        "product_url": "https://cafedefinca.eu/producto/pico-de-orizaba-espresso/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "PICO DE ORIZABA",
+        "product_origin": "M\u00e9xico",
+        "price_250": "10.395",
+        "price_500": null,
+        "price_1_kilo": "37.004",
+        "product_url": "https://cafedefinca.eu/producto/pico-de-orizaba-2/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "COOPERATIVA ALLY",
+        "product_origin": "Colombia",
+        "price_250": "10.395",
+        "price_500": null,
+        "price_1_kilo": "37.004",
+        "product_url": "https://cafedefinca.eu/producto/cooperativa-ally/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SANTA CECILIA",
+        "product_origin": "Brasil",
+        "price_250": "10.395",
+        "price_500": null,
+        "price_1_kilo": "37.004",
+        "product_url": "https://cafedefinca.eu/producto/santa-cecilia/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "LOS ANGELES",
+        "product_origin": "Per\u00fa",
+        "price_250": "12",
+        "price_500": null,
+        "price_1_kilo": "45",
+        "product_url": "https://cafedefinca.eu/producto/los-angeles-peru/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "LOS ANGELES",
+        "product_origin": "Per\u00fa",
+        "price_250": "12.001",
+        "price_500": null,
+        "price_1_kilo": "45.001",
+        "product_url": "https://cafedefinca.eu/producto/los-angeles-2/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "LOS ANGELES",
+        "product_origin": "Per\u00fa",
+        "price_250": "12.001",
+        "price_500": null,
+        "price_1_kilo": "45.001",
+        "product_url": "https://cafedefinca.eu/producto/los-angeles/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SIDAMO",
+        "product_origin": "Etiop\u00eda",
+        "price_250": "11",
+        "price_500": null,
+        "price_1_kilo": "40",
+        "product_url": "https://cafedefinca.eu/producto/sidamo-etiopia-3/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "COOPERATIVA ALLY",
+        "product_origin": "Colombia",
+        "price_250": "10.4",
+        "price_500": null,
+        "price_1_kilo": "36.99999999",
+        "product_url": "https://cafedefinca.eu/producto/supremo-espresso/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SIDAMO",
+        "product_origin": "Etiop\u00eda",
+        "price_250": "11",
+        "price_500": null,
+        "price_1_kilo": "40.007",
+        "product_url": "https://cafedefinca.eu/producto/sidamo/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "ATZUMPA",
+        "product_origin": "El Salvador",
+        "price_250": "12.496",
+        "price_500": null,
+        "price_1_kilo": "46.002",
+        "product_url": "https://cafedefinca.eu/producto/atzumpa-3/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "ATZUMPA",
+        "product_origin": "El Salvador",
+        "price_250": "12.5",
+        "price_500": null,
+        "price_1_kilo": "45.99999999",
+        "product_url": "https://cafedefinca.eu/producto/atzumpa/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "COOPERATIVA ALLY",
+        "product_origin": "Colombia",
+        "price_250": "10.395",
+        "price_500": null,
+        "price_1_kilo": "37.004",
+        "product_url": "https://cafedefinca.eu/producto/cooperativa-ally-2/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "ATZUMPA",
+        "product_origin": "El Salvador",
+        "price_250": "12.496",
+        "price_500": null,
+        "price_1_kilo": "46.002",
+        "product_url": "https://cafedefinca.eu/producto/atzumpa-2/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "KONGA",
+        "product_origin": "Etiop\u00eda",
+        "price_250": "13.497",
+        "price_500": null,
+        "price_1_kilo": "48.99999999",
+        "product_url": "https://cafedefinca.eu/producto/konga-etiopia/"
+    },
+    {
+        "competitor": "Caf\u00e9 de finca",
+        "product_name": "SIDAMO",
+        "product_origin": "Etiop\u00eda",
+        "price_250": "11",
+        "price_500": null,
+        "price_1_kilo": "39.996",
+        "product_url": "https://cafedefinca.eu/producto/sidamo-filtro/"
+    }
+]
