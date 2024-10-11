@@ -20,6 +20,10 @@ app.add_middleware(
 def get_timestamp():
     return datetime.now().strftime("%Y%m%d_%H%M%S")
 
+@app.get("/")
+def read_root():
+    return {"Hola": "Incapto api"}
+
 # Endpoint 1: Procesar el scraping completo
 @app.get("/scrape/{site}")
 def scrape(site: str):
